@@ -1,2 +1,2 @@
 # rsschool-cv
-Task: Markdown &amp; Git 
+https://vai2xz.github.io/rsschool-cv/cv
